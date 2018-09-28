@@ -1,0 +1,15 @@
+{
+    "name": "dfs",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "243a2840-bd73-11e8-b9fd-db39fbcfaa77",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/api/messages",
+            "name": "http://localhost:3979/api/messages"
+        }
+    ]
+}

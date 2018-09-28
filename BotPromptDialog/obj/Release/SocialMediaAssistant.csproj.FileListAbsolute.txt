@@ -1,0 +1,43 @@
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Bot Application.dll.config
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Bot Application.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Bot Application.pdb
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\AdaptiveCards.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Autofac.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Chronic.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Microsoft.Bot.Builder.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Microsoft.Bot.Connector.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Newtonsoft.Json.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\System.Net.Http.Formatting.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\System.Web.Http.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\System.Web.Http.WebHost.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Autofac.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Microsoft.Bot.Builder.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Microsoft.Bot.Connector.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\Newtonsoft.Json.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\System.Net.Http.Formatting.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\System.Web.Http.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\System.Web.Http.WebHost.xml
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\obj\Release\SocialMediaAssistant.csprojAssemblyReference.cache
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\obj\Release\SocialMediaAssistant.csproj.CoreCompileInputs.cache
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\obj\Release\SocialMediaAssistant.csproj.CopyComplete
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\obj\Release\Bot Application.dll
+C:\Users\alex.post\Documents\Alex Post\Programmeeropdrachten\Chatbots\Social media assistant\BotPromptDialog\obj\Release\Bot Application.pdb
